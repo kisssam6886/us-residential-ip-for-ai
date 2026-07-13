@@ -37,6 +37,26 @@
 
 **详情 → https://voguesly.com** ｜ 注册 → https://ylink.im
 
+## 3 分钟接入（ClashMi / Clash Meta，能读智能分流规则）
+
+iPhone、安卓、Windows、macOS 都通用，推荐 **ClashMi**（Clash Meta / mihomo 内核，能读易联的智能分流规则——国内直连、国际走节点、养号走住宅）：
+
+1. 下载 ClashMi（App Store 海外区 / [GitHub](https://github.com/KaringX/clashmi/releases) / Docker Hub / 官网 [clashmi.app](https://clashmi.app)，除中国区外都能装）
+2. 首页「我的配置」点 **➕** → 选「登录」
+3. **服务商识别码填 `69v`** → 输入易联邮箱密码 → 登录
+4. 自动导入订阅 + 规则，回首页开开关即可
+
+> 📖 图文教程（含手机截图，简/繁）：**[voguesly.com/guides/clashmi-clash-meta-setup](https://voguesly.com/guides/clashmi-clash-meta-setup/)**
+> Karing（同 KaringX 团队）流程一样，识别码同为 `69v`。
+
+## 延伸阅读（自检 + 排查教程）
+
+- 🔍 **[AI IP 自检工具](https://voguesly.com/ai-ip-test/)** —— 一键查 IP 类型 / DNS / ChatGPT / Claude 连通状态
+- [机房 IP、VPS、住宅 IP 到底有什么区别？](https://voguesly.com/guides/datacenter-vs-residential-ip/)
+- [Claude 频繁验证是不是 IP 问题？先这样排查](https://voguesly.com/guides/claude-ip-verification/)
+- [怎么确认自己用的是不是真住宅 IP？](https://voguesly.com/guides/how-to-verify-residential-ip/)
+- [Codex CLI / Codex App 连接不稳定，先排查什么？](https://voguesly.com/guides/codex-cli-network-troubleshooting/)
+
 ---
 
 ## 常见问题
