@@ -33,7 +33,7 @@
 - 🚗 **拼车「车队」模型**：一个车队绑一个住宅 IP，人数可控——限制关联半径，一人出事不连累同车
 - ⚡ 支持 Clash / sing-box / Shadowrocket / 自研 App（安卓/iOS/Win/Mac）；reality + Hysteria2
 - 💰 支持支付宝 + 微信；¥3.9 试用起
-- 🔒 试用即可自己拿 ping0 验，不是不收钱
+- 🔒 试用即可自己拿 ping0 验，眼见为实
 
 **详情 → https://voguesly.com** ｜ 注册 → https://ylink.im
 
